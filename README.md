@@ -4,7 +4,7 @@ For C++ study.
 # S_Vector Class
 A simple implementation of vector class.
 
-[Quick Start & Usage](#Quick-StartUsage)
+[Quick Start & Usage](#Quick-Start--Usage)
 
 [Member Functions](#2.2)
 
