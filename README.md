@@ -4,15 +4,15 @@ For C++ study.
 # S_Vector Class
 A simple implementation of vector class.
 
-[Quick Start&nbsp;&amp;&nbsp;Usage](#Quick-Start-&-Usage)
+[Quick Start & Usage](#Quick-StartUsage)
 
-[Member Functions](#Member-Functions)
+[Member Functions](#2.2)
 
-[Log](#Updata-Log)
+[Log](#Update-Log)
 
 ---
 
-## Quick Start&nbsp;&amp;&nbsp;Usage
+## Quick Start & Usage
 ### Func test
 ```shell
 $ git clone https://github.com/GhostWarlock/S_Vector
@@ -109,6 +109,8 @@ S_Vector Class is a simple implementation of **C++11 std::vector**, the use of b
 ## Update Log
 
 - Version: V1.0.&nbsp;&nbsp;&nbsp;&nbsp;*2021/01/10*
+
+
 
 
 
